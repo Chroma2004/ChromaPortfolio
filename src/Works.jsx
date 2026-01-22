@@ -11,7 +11,7 @@ import Port2 from './assets/Port2.png';
 import Port3 from './assets/Port3.png';
 import Port4 from './assets/Port4.png';
 import GA1 from './assets/GA1.png';
-import GA2 from '../assets/GA2.png';
+import GA2 from './assets/GA2.png';
 import GA3 from './assets/GA3.png';
 import GA4 from './assets/GA4.png';
 import TrainPA1 from './assets/TrainPA1.png';
